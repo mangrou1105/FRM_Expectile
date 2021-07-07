@@ -11,4 +11,4 @@ Authors: 'Rui Ren, Meng-Jou Lu'
 
 See also: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3809329'
 
-Submitted:  '12.04.2021'
+Submitted:  '06.07.2021'

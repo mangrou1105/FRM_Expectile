@@ -7,8 +7,8 @@ Description: 'Financial Risk Meter Based on Expectiles'
 
 Keywords: 'Expectiles, EVaR, CoEVaR, expectile lasso regression, network analysis, systemic risk, Financial Risk Meter'
 
-Authors: 'Rui Ren, Meng-Jou Lu'
+Authors: 'Meng-Jou Lu'
 
 See also: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3809329'
 
-Submitted:  '12.04.2021'
+Submitted:  '06.07.2021'
